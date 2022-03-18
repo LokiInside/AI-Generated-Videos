@@ -1,5 +1,5 @@
-# AI-Generated-Videos
-
+# AI-Generated-Videos using 
+https://github.com/nerdyrodent/VQGAN-CLIP/
 
 
 https://user-images.githubusercontent.com/75278757/158981701-c13f48cc-ce33-4b52-80e2-e8a54e41bc3c.mp4
